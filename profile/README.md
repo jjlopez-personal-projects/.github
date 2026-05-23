@@ -1,12 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+Welcome to **jjlopez-personal-projects** — a space for personal projects, experiments, and learning by building.
 
-**Here are some ideas to get you started:**
+## About this organization
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This organization is where I keep:
+- Personal software projects
+- Small experiments and prototypes
+- Utility tools and scripts
+- Ideas that are still growing into something bigger
+
+## What you’ll find here
+
+- Clean, practical code
+- Ongoing improvements over time
+- Projects built to learn, test, and share
+- A mix of technologies and approaches
+
+## Goals
+
+My main goals with these projects are to:
+- Build useful things
+- Practice and improve engineering skills
+- Explore new tools and frameworks
+- Share work that others can learn from or reuse
+
+## Connect
+
+If you want to follow along or reach out, feel free to explore the repositories in this organization.
+
+---
+
+Thanks for stopping by! 🚀
